@@ -1,3 +1,9 @@
+/Untitled1.ipynb
+.idea
+*.tmp
+*.tfevents
+catboost_info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,24 @@
+['X', 'Y', 'Z', 'Z_X', 'Z_Y', 'X_Y', 'Z_X_Y', 'Z_normalized', 'X_normalized', 'Y_normalized', 'geom_dist']
+Out[9]:
+array([4.42304924e+00, 8.78435317e+00, 1.77506431e-02, 4.46189311e-02,
+       1.41108686e-02, 3.16003915e+01, 2.78595989e-02, 9.32752529e-05,
+       3.36027182e+01, 2.14506655e+01, 3.43890644e-02])
+
+
+['X',
+ 'X_Y',
+ 'X_normalized',
+ 'Y',
+ 'Y_normalized',
+ 'Z',
+ 'Z_X',
+ 'Z_X_Y',
+ 'Z_Y',
+ 'Z_normalized',
+ 'geom_dist']
+
+ filtered = [['X',
+ 'X_Y',
+ 'X_normalized',
+ 'Y',
+ 'Y_normalized']
